@@ -1,19 +1,20 @@
 {
-  "title": "TARK Explorer",
-  "server": "http://127.0.0.1:4003/api",
+  "title": "headsup-racing Testnet Explorer",
+  "server": "http://69.195.132.110:4003/api/v2",
   "alias": "Testnet local",
-  "activeDelegates": 51,
-  "rewardOffset": 75600,
+  "activeDelegates": "51",
+  "rewardOffset": "1000",
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "TARK",
-    "symbol": "TѦ",
+    "token": "HUR",
+    "symbol": "¼",
     "currency": null,
     "priceChartOptions": {
       "enabled": false,
       "period": "day",
       "type": "price"
-    }
+    },
+    "priceChart": false
   }
 }
