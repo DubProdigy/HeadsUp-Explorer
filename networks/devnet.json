@@ -1,6 +1,6 @@
 {
   "title": "headsup-racing Devnet Explorer",
-  "server": "http://69.195.132.110:4003/api/v2",
+  "server": "http://69.195.132.112:4003/api/v2",
   "alias": "Development",
   "activeDelegates": "51",
   "rewardOffset": "1000",
